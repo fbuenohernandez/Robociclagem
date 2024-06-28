@@ -1,3 +1,3 @@
-![robo1](https://github.com/fbuenohernandez/Robociclagem/assets/132588231/0e32a336-cb53-4aa0-8372-c1461f83c428)
-![robo3](https://github.com/fbuenohernandez/Robociclagem/assets/132588231/ca9db745-da5c-4450-bdf6-48b9bad55f3e)
-![robo2](https://github.com/fbuenohernandez/Robociclagem/assets/132588231/1f8c34b1-a691-40dd-9ad5-021ee398c4af)
+![robo1 (1)](https://github.com/fbuenohernandez/Robociclagem/assets/132588231/d5a9c4e3-2e8f-4671-825d-08abf2e8c241)
+![robo2](https://github.com/fbuenohernandez/Robociclagem/assets/132588231/c8d25344-1cbf-46a6-babe-ba089cb90d40)
+![robo3](https://github.com/fbuenohernandez/Robociclagem/assets/132588231/255538eb-2df2-4205-8544-b5dbad0b04f2)
